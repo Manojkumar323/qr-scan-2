@@ -1,0 +1,14 @@
+setup \
+
+
+setp1>>>>>  git clone reopsatory link
+
+setp 2 >>>>>>>>> check git status
+
+setp 3 >>>>>>>>>> git add that {file}
+
+setp4 >>>>>>>>>>  again git status
+
+setp5 >>>>>>>>> git commit -m "text file"
+
+setp 6 >>>>>>>>> git push origin main
